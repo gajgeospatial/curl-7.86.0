@@ -1,0 +1,60 @@
+# CMake generation dependency list for this directory.
+C:/Development/op3d_active/curl-7.86.0/CMake/CurlSymbolHiding.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/CurlTests.c
+C:/Development/op3d_active/curl-7.86.0/CMake/FindBrotli.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/FindCARES.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/FindLibPSL.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/FindLibSSH2.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/FindNGHTTP2.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/FindZstd.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/Macros.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/OtherTests.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/Platforms/WindowsCache.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/Utilities.cmake
+C:/Development/op3d_active/curl-7.86.0/CMake/cmake_uninstall.cmake.in
+C:/Development/op3d_active/curl-7.86.0/CMake/curl-config.cmake.in
+C:/Development/op3d_active/curl-7.86.0/CMakeLists.txt
+C:/Development/op3d_active/curl-7.86.0/curl-config.in
+C:/Development/op3d_active/curl-7.86.0/libcurl.pc.in
+C:/Development/op3d_active/curl-7.86.0/msvc/CMakeFiles/3.14.3/CMakeCCompiler.cmake
+C:/Development/op3d_active/curl-7.86.0/msvc/CMakeFiles/3.14.3/CMakeRCCompiler.cmake
+C:/Development/op3d_active/curl-7.86.0/msvc/CMakeFiles/3.14.3/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindCygwin.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindOpenSSL.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPerl.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/WriteBasicConfigVersionFile.cmake
